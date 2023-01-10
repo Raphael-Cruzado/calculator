@@ -2,3 +2,36 @@
   width: 800px;
   margin: 0 auto;
 }
+
+.calculator-header-color {
+  background-color: #07272d;
+}
+
+.vh-25 {
+ height: 25vh;
+}
+
+/* .calculator {
+ width: 18rem;
+ height: 30rem;
+ border-radius: 1.5rem;
+ background-color: #07272d;
+}
+
+span {
+  color: white;
+}
+
+#display-result {
+  display: flex;
+  height: 9rem;
+  border-radius: 1.5rem 1.5rem 0 0;
+  background-color: grey;
+  justify-content: end;
+  align-items: center;
+}
+
+.row {
+  background-color: pink;
+  height: ;
+} */
