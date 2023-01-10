@@ -1,9 +1,8 @@
 // import logo from './logo.svg';
-import './App.css';
-
+import './css/styles.css'
 function App() {
   return (
-    <div className='.container-lg'>
+    <div className='custom-container d-flex justify-content-center align-items-center vh-100'>
       <h1>hello you sexy motherfucker</h1>
     </div>
   );
